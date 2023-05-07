@@ -1,7 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "./assets/vite.svg";
-import ExpenseItem from "./components/ExpenseItem";
 import Expenses from "./components/Expenses/Expenses";
 
 function App() {
